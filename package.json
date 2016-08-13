@@ -1,0 +1,27 @@
+{
+  "name": "facebook-it-bot",
+  "version": "1.0.0",
+  "description": "This is a Facebook Messenger bot used for helping students connect to DU wifi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OhmGeek/ITBot.git"
+  },
+  "author": "Ryan Collins",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/OhmGeek/ITBot/issues"
+  },
+  "homepage": "https://github.com/OhmGeek/ITBot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "config": "^1.21.0",
+    "crypto": "0.0.3",
+    "express": "^4.14.0",
+    "https": "^1.0.0",
+    "request": "^2.73.0"
+  }
+}
